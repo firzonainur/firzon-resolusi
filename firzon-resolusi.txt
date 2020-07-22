@@ -2,3 +2,5 @@ Firzon Resolusi
 1. Konsisten membuat konten 2 kali seminggu
 2. Membuat platform video
 3. Membuat forum diskusi
+4. Membuat web sisinta dengan CI 3
+5. Kolaborasi dengan khafit
