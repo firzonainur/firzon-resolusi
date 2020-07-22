@@ -3,3 +3,6 @@ Firzon Resolusi
 2. Membuat platform video
 3. Membuat forum diskusi
 4. Membuat web sisinta dengan CI 3
+5. Kolaborasi dengan khafit untuk memuat siperi
+  - Llihat tutorial wpu
+  - eksekusi program desain siperi ke github
