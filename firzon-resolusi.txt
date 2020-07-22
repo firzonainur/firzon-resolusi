@@ -6,3 +6,4 @@ Firzon Resolusi
 5. Kolaborasi dengan khafit untuk memuat siperi
   - Llihat tutorial wpu
   - eksekusi program desain siperi ke github
+  - kerja bersama sama
